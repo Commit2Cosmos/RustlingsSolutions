@@ -1,3 +1,3 @@
-## Solutions to LeetCode Problems in Rust
+## Solutions to Rustlings practice problems
 
-I try to solve at least one problem from the [NeetCode list](https://neetcode.io/practice). Many thanks to Navdeep Singh for amazing explanations! Check out my other repos for solutions in [Python](https://github.com/Commit2Cosmos/PythonLeetCodeSolutions) and [JavaScript](https://github.com/Commit2Cosmos/JavaScriptLeetCodeSolutions)
+My solutions to [Rustlings](https://github.com/rust-lang/rustlings) exercises for learning Rust
